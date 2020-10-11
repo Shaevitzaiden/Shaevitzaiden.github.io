@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+a {
+    color: white;
+    opacity: 1.0;
+}
+
+
